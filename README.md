@@ -7,10 +7,9 @@ Meu nome é Sebastião de Moraes
 
 - ### você pode entrar em contato comigo 📫
 - sebastiao.moraes@escola.pr.gov.br
-- 
 - ![](https://media1.tenor.com/m/F1Q2Q6PQ5fIAAAAC/im-serious-x-men.gif);
-- 
--
+
+
 
 
 
