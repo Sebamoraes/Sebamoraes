@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
+Meu nome é Sebastião de Moraes
 
-<!--
-**Sebamoraes/Sebamoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na [Alura](https://alura.com.br)
+- Estou me desenvolvendo na linguagem JAvaScript
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+- ### você pode entrar em contato comigo 📫
+- sebastiao.moraes@escola.pr.gov.br
+- 
+- ![](https://media1.tenor.com/m/F1Q2Q6PQ5fIAAAAC/im-serious-x-men.gif);
+- 
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
